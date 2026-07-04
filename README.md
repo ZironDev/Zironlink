@@ -1,4 +1,4 @@
-# lavalink-alt
+# Zironlink
 
 A Lavalink v4-compatible audio node written in Python/FastAPI. It exposes the
 same REST + WebSocket surface as [Lavalink](https://lavalink.dev), so most
