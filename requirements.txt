@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+websockets==13.1
+aiohttp==3.10.5
+yt-dlp>=2024.10.7
+PyNaCl==1.5.0
+opuslib==3.0.1
+dave.py>=0.1.2  # libdave bindings for DAVE E2EE (MLS group + frame crypto). Wheels: linux/macOS/win 64-bit only.
+pydantic==2.9.2
+python-dotenv==1.0.1
