@@ -6,7 +6,7 @@ load_dotenv()
 
 class Settings:
     HOST = os.getenv('ZIRONLINK_HOST', '0.0.0.0')
-    PORT = int(os.getenv('ZIRONLIN_PORT', '2333'))
+    PORT = int(os.getenv('ZIRONLINK_PORT', '2333'))
     PASSWORD = os.getenv('ZIRONLINK_PASSWORD', 'youshallnotpass')
     ZIRONLINK_API_VERSION = 4
     ZIRONLINK_SEMVER = '4.0.8'
