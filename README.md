@@ -1,3 +1,5 @@
+![Zironlink banner](assets/banner.png)
+
 # Zironlink
 
 A Lavalink v4-compatible audio node, built from scratch in Python — with
